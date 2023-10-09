@@ -1,0 +1,37 @@
+.box {
+  float:right;
+  width: 180;
+  height:30;
+  
+  margin: center;
+  color: black;
+  font-family:impact;
+  border:fixed;
+ 
+}
+
+  h3 {
+  padding: 12.5px 30px;
+  border:fixed;
+  color: #ffffff;
+  font-weight: Bold;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+}
+
+ h3:hover {
+  background-color: #77BFC7
+  box-shadow: 0 0 10px #6fc5ff50;
+  transform: scale(1.1);}
+  
+ 
+
+ h3:active {
+  background-color:#B7CEEC;
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+  box-shadow: none;
+  transform: scale(0.98);
+}
+
+

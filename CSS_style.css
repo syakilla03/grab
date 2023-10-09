@@ -1,0 +1,104 @@
+//Custacount
+<body>
+.box{
+margin-left:200;
+float:left;
+background-color:#98AFC7;
+margin-top:20;
+height:300;
+width:350;
+border-radius: 50px;
+border-color:white;
+box-shadow: 10px 10px 64px 0px rgba(180, 180, 207, 0.75);
+  -webkit-box-shadow: 10px 10px 64px 0px rgba(186, 186, 202, 0.75);
+  -moz-box-shadow: 10px 10px 64px 0px rgba(208, 208, 231, 0.75);
+}
+
+.text{
+margin-left:50;
+margin-bottom:50;
+font-size:20;
+color:white;
+font-family:impact;
+
+}
+
+
+.text2{
+margin-left:80;
+margin-top:10;
+margin-bottom:40;
+font-size:20;
+color:#191970;
+font-family:comic sans;
+font-size:20;
+font-weight:bold;
+}
+
+table{
+margin-left:80;
+margin-top:10;
+margin-bottom:40;
+font-size:20;
+color:#191970;
+font-family:comic sans;
+font-size:20;
+font-weight:bold;
+}
+
+.box2
+{		width: 650px;
+		height:350px;
+		margin-top:20;
+		margin-right:250;
+		border: 5px ;
+		background-color:#B4CFEC; 
+		color:white;
+		border-radius: 10px;
+		float:right;
+		box-shadow: 10px 10px 64px 0px rgba(180, 180, 207, 0.75);
+  -webkit-box-shadow: 10px 10px 64px 0px rgba(186, 186, 202, 0.75);
+  -moz-box-shadow: 10px 10px 64px 0px rgba(208, 208, 231, 0.75);
+}
+
+
+	  input[type=Submit] {
+  padding: 12.5px 30px;
+  border: 0;
+  margin-top:20px;
+  border-radius: 100px;
+  background-color: #77BFC7;
+  color: #ffffff;
+  font-weight: Bold;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+}
+
+ input[type=Submit]:hover {
+  background-color: #77BFC7
+  box-shadow: 0 0 20px #6fc5ff50;
+  transform: scale(1.1);}
+ 
+
+ input[type=Submit] :active {
+  background-color: #3d94cf;
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+  box-shadow: none;
+  transform: scale(0.98);
+}
+
+.box{
+margin-left:200;
+float:left;
+background-color:#98AFC7;
+margin-top:20;
+height:300;
+width:350;
+border-radius: 50px;
+border-color:white;
+box-shadow: 10px 10px 64px 0px rgba(180, 180, 207, 0.75);
+  -webkit-box-shadow: 10px 10px 64px 0px rgba(186, 186, 202, 0.75);
+  -moz-box-shadow: 10px 10px 64px 0px rgba(208, 208, 231, 0.75);
+}
+

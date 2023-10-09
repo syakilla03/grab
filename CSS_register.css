@@ -1,0 +1,67 @@
+
+ 
+.box{
+		width: 420px;
+		padding: 2px;
+		border: 5px ;
+		margin: auto;
+		border-color: white;
+		color:white;
+		}
+		
+		
+     input[type=text],input[type=password]
+	 {
+	 border:2px solid #aaa;
+	 height:30px;
+	 width:350px;
+	 border-radius:4px;
+	 background-color: #94bbe9 ;
+	 margin:8px
+	 transition:3s;
+	 
+	 }
+	 
+	 input[type=text]:focus
+	 {
+	 border-color:dodgerBlue;
+	 box-shadow:0 0 8px dodgerBlue;
+	 }
+	 
+	 input[type=password]:focus
+	 {
+	 border-color:red;
+	 box-shadow:0 0 8px red;
+	 }
+	
+	
+	 
+	  input[type=Submit], input[type=Reset] {
+  padding: 12.5px 30px;
+  border: 0;
+  border-radius: 100px;
+  background-color: #191970;
+  color: #ffffff;
+  font-weight: Bold;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+}
+
+ input[type=Submit]:hover {
+  background-color: #77BFC7
+  box-shadow: 0 0 20px #6fc5ff50;
+  transform: scale(1.1);}
+  
+ input[type=Reset]:hover {
+  background-color: #77BFC7
+  box-shadow: 0 0 20px #6fc5ff50;
+  transform: scale(1.1);}
+
+ input[type=Submit] :active, input[type=Reset]:active {
+  background-color: #3d94cf;
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+  box-shadow: none;
+  transform: scale(0.98);
+}
+
